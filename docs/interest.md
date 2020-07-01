@@ -30,7 +30,7 @@ Lending and borrowing interest rates for Stablecoins and WBTC are defined by the
 
 The lending and borrowing interest rates for Stablecoins and WBTC are displayed graphically below. Lending is in <span style="color:purple"> purple </span> while borrowing is in <span style="color:green"> green</span>.
 
-![normal_lending_borrowing](../website/static/img/Normal_Lending_Borrowing.png)
+![normal_lending_borrowing](/img/Normal_Lending_Borrowing.png)
 
 ### ETH Interest Rates
 
@@ -46,7 +46,7 @@ ETH has a slightly modified interest rate compared to other assets, as defined b
 
 The lending and borrowing interest rates for ETH are displayed graphically below. Lending is in <span style="color:purple"> purple </span> while borrowing is in <span style="color:green"> green</span>.
 
-![eth_lending_borrowing](../website/static/img/Eth_Lending_Borrowing.png)
+![eth_lending_borrowing](/img/Eth_Lending_Borrowing.png)
 
 ## Insurance Pools
 
