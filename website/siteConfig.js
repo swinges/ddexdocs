@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'DDEX Documentation', // Title for your website.
-  tagline: 'Docucmentation for DDEX, Decentralized Exchange',
+  title: 'Kalm Secrets', // Title for your website.
+  tagline: 'Learn how to use Kalm',
   url: 'https://ddex.io', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -45,7 +45,7 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/DDEXicon.png',
+  headerIcon: 'img/docusaurus.svg,
   footerIcon: 'img/DDEXicon.png',
   favicon: 'img/DDEXicon.png',
 
