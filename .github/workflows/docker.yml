@@ -31,7 +31,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: docker build
         run: |
-          docker build . -t ddexdocs
+          docker build . -t scottlifts/ddexdocs
       - name: docker push
         run: |
-          docker push scottlifts/ddexdocs/.
+          docker push scottlifts/ddexdocs
