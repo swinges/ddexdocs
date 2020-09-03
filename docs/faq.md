@@ -4,7 +4,7 @@ title: FAQ
 sidebar_label: Frequently Asked Questions
 ---
 
-Welcome to [DDEX](https://ddex.io)'s frequently asked questions page. If you can't find the info you're looking for, come chat with us on our [discord channel](https://discord.gg/g6C6jfB).
+Wow Kalm is amazing! Welcome to [DDEX](https://ddex.io)'s frequently asked questions page. If you can't find the info you're looking for, come chat with us on our [discord channel](https://discord.gg/g6C6jfB).
 
 # Overview
 
