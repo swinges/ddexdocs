@@ -34,4 +34,4 @@ jobs:
           docker build . -t ddexdocs
       - name: docker push
         run: |
-          docker push ddexdocs
+          docker push scottlifts/ddexdocs/.
